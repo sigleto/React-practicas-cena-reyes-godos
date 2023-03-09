@@ -1,0 +1,23 @@
+.cuadro{
+    width:300px;
+    height:400px;
+    background-color: antiquewhite;
+}
+.corte{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+.precio{
+    font-size: 20px;
+    font-family: sans-serif;
+    color:black;
+    margin-top: 300px;
+    margin-left: auto;
+}
+.nombre{
+
+    font-size: 30px;
+    color: black;
+    text-align: center;
+}
